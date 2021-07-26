@@ -2,13 +2,13 @@
 
 #### A word-based Telegram game bot.
 
-Official hosted bot: [@CrocodileGameBot](https://t.me/CrocodileGameBot).
+Official hosted bot: [@ReislerKelimeBot](https://t.me/ReislerkelimeBot).
 
 ## Deploying your own
 
 ### To Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PatheticProgrammers/CrocodileGame)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/ReislerKelimeBot2)
 
 ### On your machine
 
