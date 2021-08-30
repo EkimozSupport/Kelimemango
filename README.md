@@ -2,13 +2,13 @@
 
 #### A word-based Telegram game bot.
 
-Official hosted bot: [@ReislerKelimeBot](https://t.me/ReislerkelimeBot).
+Official hosted bot: [@MangoKelime_bot](https://t.me/mangokelime_bot).
 
 ## Deploying your own
 
 ### To Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/ReislerKelimeBot2)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EkimozSupport/Kelimemango)
 
 ### On your machine
 
